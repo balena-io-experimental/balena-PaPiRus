@@ -1,0 +1,4 @@
+# Options to pass to epd_fuse
+#EPD_MOUNTPOINT=/dev/epd
+EPD_SIZE=2.7
+#EPD_OPTS='-o allow_other -o default_permissions'
