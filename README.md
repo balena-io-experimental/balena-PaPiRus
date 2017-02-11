@@ -4,6 +4,8 @@
 
 Add a PaPiRus HAT to your RaspberryPi and push master branch to your resin git endpoint. As soon as the application is running, the eInk display will show the resinOS logo.
 
+![resinOS on PaPiRus](http://i.imgur.com/gJLVqkU.jpg "resinOS on PaPiRus")
+
 ## License
 
 Copyright 2017 Rulemotion Ltd.
